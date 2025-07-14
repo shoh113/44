@@ -1,0 +1,67 @@
+.shoh{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.lom{
+    display: flex;
+    gap: 20px;
+    
+}
+.aa{
+    border-radius: 50px;
+    background-color: red;
+}
+
+
+.title{
+    font-family: DM Serif Display;
+font-weight: 400;
+font-size: 72px;
+line-height: 72px;
+letter-spacing: -0.55px;
+width: 550px;
+color: #36536B;
+
+
+}
+
+
+.gg{
+    display: flex;
+    justify-content: space-between;
+}
+.ss{
+    font-family: DM Serif Display;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+letter-spacing: -0.37px;
+display: flex;
+justify-content: space-evenly;
+
+}
+
+
+.pp{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.qq{
+    display: flex;
+    gap: 700px;
+    color: #36536B;
+}
+
+
+.ff{
+    display: flex;
+      align-items: center;
+      gap: 50px;
+  background-color: #1B262F;
+  color: aliceblue;
+}
